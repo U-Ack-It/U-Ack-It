@@ -19,6 +19,19 @@ I build **AI agent systems with the safety written in code**: the AI proposes, p
 
 ---
 
+### Latest: AI governance & client-data protection
+In **CHANCO OS** (private parts, demo on request), client confidentiality is enforced in code:
+
+- **Data-loss prevention for AI:** account numbers, card data, credentials and private client details are stopped or masked before any request leaves the machine; validated live end to end.
+- **Audit trail by design:** every AI request is recorded in a tamper-evident log, so any change or deletion is detectable at review.
+- **Independent testing:** an outside tester's blind evaluation scored version 1 at **43%**; every gap was closed and locked in as a permanent control test.
+- **Controls in code, not in instructions:** when the AI tried to bypass a source restriction, the system refused it automatically.
+- **116 automated tests** gate every change; nothing goes live unless all pass.
+
+*Former Ritz-Carlton VIP client-services professional (UHNW clientele), now combining client discretion with AI engineering. Code available for review in interviews.*
+
+---
+
 ### How I work
 
 - **The AI proposes, plain code decides.** A rule in a prompt is a wish; a rule in code is a wall. Money, files and deletes go through gates the AI can't change.
@@ -33,4 +46,4 @@ I build **AI agent systems with the safety written in code**: the AI proposes, p
 
 ---
 
-📫 Open to AI engineering and AI operations roles. [LinkedIn](https://www.linkedin.com/in/olivier-boukli-2a82b146)
+📫 Open to AI engineering, AI operations and AI governance roles, including in wealth management. [LinkedIn](https://www.linkedin.com/in/olivier-boukli-2a82b146)
